@@ -10,6 +10,7 @@ I'm a web designer and Ruby on Rails developer. I love **Ruby** and **Rails** I 
 - 💬 Ask me about Design, Tailwind CSS and Rails.
 - 📫 How to reach me: [@ahmednadar](https://twitter.com/ahmednadar) and [ahmednadar.com](http://ahmednadar.com/)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AhmedNadar)](https://git.io/streak-stats)
 
 **Like my work? Support Me**
 
